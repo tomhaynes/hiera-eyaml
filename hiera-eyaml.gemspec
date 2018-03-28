@@ -18,5 +18,5 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
 
   gem.add_dependency('trollop', '~> 2.0')
-  gem.add_dependency('highline', '~> 1.6.19')
+  gem.add_dependency('highline', '~> 1.7.2')
 end
